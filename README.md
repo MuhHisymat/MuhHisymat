@@ -5,7 +5,6 @@
 -->
 
 ### 🚀 Cybersecurity Enthusiast & Full-Stack Developer
-Available for Work 💼
 
 - 🔭 **I’m currently working on:** Building and maintaining secure web and mobile applications, including real-time GIS monitoring platforms, multi-platform POS systems, and enterprise inventory apps.
 - 🌱 **I’m currently learning:** Advanced Cloud Security, and DevOps practices.
