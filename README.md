@@ -7,7 +7,7 @@
 ### 🚀 Cybersecurity Enthusiast & Full-Stack Developer
 
 - 🔭 **I’m currently working on:** Building and maintaining secure web and mobile applications, including real-time GIS monitoring platforms, multi-platform POS systems, and enterprise inventory apps.
-- 🌱 **I’m currently learning:** Advanced Cloud Security, and DevOps practices.
+- 🌱 **I’m currently learning:** Cloud Security, and DevOps practices.
 - 👯 **I’m looking to collaborate on:** Open-source projects or remote developer opportunities focusing on Full-Stack development and Cybersecurity.
 - 💬 **Ask me about:** Web & Mobile integration, RESTful APIs, building interactive mapping platforms, or finding system vulnerabilities.
 - 📫 **How to reach me:** Check my personal portfolio at https://mhisymat.tech/ or send me a DM.
