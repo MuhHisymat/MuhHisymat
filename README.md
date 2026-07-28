@@ -32,6 +32,7 @@
 
 | Year | Institution / Organization | Award / Certification |
 | :--- | :--- | :--- |
+| **2026** | **Diskominfo Kota Bandung	Certificate of Appreciation** | Cybersecurity Vulnerability Research (Responsible Disclosure on bandung.go.id) |
 | **2026** | **Diskominfotik Provinsi DKI Jakarta** | Certificate of Appreciation – Cybersecurity Vulnerability Research (Responsible Disclosure) |
 | **2026** | **Merdeka Siber** | Certificate of Excellence - Cybersecurity Engineer (Batch #22) |
 | **2026** | **Amazon Web Services (AWS)** | AWS Security Best Practices & Overview of AWS Cloud Security |
