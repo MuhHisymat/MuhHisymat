@@ -3,14 +3,13 @@
 # 👋 Hi there, I'm Muh Hisymat Qushayyi Kadir
 
 <a href="https://mhisymat.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%26+Vulnerability+Researcher;Full-Stack+Enterprise+Web+%26+Mobile+Developer;Cloud+Security%2C+DevOps+%26+Incident+Response;Informatics+%26+Computer+Engineering+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Cybersecurity+Engineer+%26+Red+Team+Researcher;Full-Stack+Enterprise+Web+%26+Mobile+Developer;Cloud+Security%2C+DevOps+%26+Penetration+Testing;Informatics+%26+Computer+Engineering+Graduate" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mhisymat.tech-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mhisymat.tech/)
-[![Email](https://img.shields.io/badge/Email-Muhhisymat24%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhhisymat24@gmail.com)
-[![Security Focus](https://img.shields.io/badge/Security-Red_Team%20%7C%20Blue_Team-e11d48?style=for-the-badge&logo=shield&logoColor=white)](#-security-recognitions--hall-of-fame)
+[![Security Focus](https://img.shields.io/badge/Security-Red_Team-e11d48?style=for-the-badge&logo=kali-linux&logoColor=white)](#-security-recognitions--hall-of-fame)
 [![Location](https://img.shields.io/badge/Location-Makassar%2C%20Indonesia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Views](https://komarev.com/ghpvc/?username=MuhHisymat&label=Profile+Views&style=for-the-badge&color=0284c7)](https://mhisymat.tech/)
 
@@ -20,12 +19,12 @@
 
 ### 🚀 About Me
 
-Informatics and Computer Engineering graduate from **Ujung Pandang Polytechnic** with **3+ years of professional experience** in full-stack web and mobile development, paired with a specialized cybersecurity background in **Penetration Testing, SOC Analysis, and Incident Response**.
+Informatics and Computer Engineering graduate from **Ujung Pandang Polytechnic** with **3+ years of professional experience** in full-stack web and mobile development, paired with a specialized cybersecurity background in **Red Teaming, Penetration Testing, and Vulnerability Research**.
 
 - 🔭 **Current Focus:** Engineering secure, data-intensive web and mobile platforms—spanning real-time GIS spatial monitoring, multi-platform POS & inventory, enterprise financial cash flow engines, and full-scale automotive workshop ERPs.
-- 🛡️ **Cybersecurity Focus:** Vulnerability assessment & penetration testing (VAPT), responsible vulnerability disclosures, cloud security architecture (AWS), and DevSecOps pipelines.
+- 🛡️ **Cybersecurity Focus:** Red Teaming, Vulnerability Assessment & Penetration Testing (VAPT), responsible vulnerability disclosures, and cloud security architecture (AWS).
 - 💡 **Core Strengths:** Deep understanding of software architecture, role-based access controls (RBAC), multi-subdomain routing, legacy system optimization, automated accounting ledgers, and interactive 3D/WebGL experiences.
-- 📫 **Reach Me Directly:** [Muhhisymat24@gmail.com](mailto:Muhhisymat24@gmail.com) • [mhisymat.tech](https://mhisymat.tech/)
+- 📫 **Connect:** Visit personal portfolio at [mhisymat.tech](https://mhisymat.tech/) or send a direct message.
 
 ---
 
@@ -78,7 +77,7 @@ Officially recognized for identifying and responsibly reporting security vulnera
 ### 💻 Tech Stack & Tooling
 
 #### 🛡️ Cybersecurity, Cloud & DevOps
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-RedTeam%20%2F%20BlueTeam-e11d48?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red_Team-e11d48?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -128,7 +127,7 @@ Officially recognized for identifying and responsibly reporting security vulnera
 
 <div align="center">
 
-**Open for high-impact engineering, full-stack development, and cybersecurity engagements.**  
-🌐 [mhisymat.tech](https://mhisymat.tech/) • 📧 [Muhhisymat24@gmail.com](mailto:Muhhisymat24@gmail.com) • 📍 Makassar, Indonesia
+**Open for high-impact engineering, full-stack development, and offensive cybersecurity / red teaming engagements.**  
+🌐 [mhisymat.tech](https://mhisymat.tech/) • 📍 Makassar, Indonesia
 
 </div>
