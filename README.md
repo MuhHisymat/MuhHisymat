@@ -120,8 +120,9 @@ Officially recognized for identifying and responsibly reporting security vulnera
 ### ⚡ Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhHisymat&theme=tokyonight&hide_border=true" alt="MuhHisymat GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MuhHisymat&theme=tokyonight&hide_border=true&starting_year=2026" alt="MuhHisymat GitHub Streak" />
 </div>
+
 
 ---
 
