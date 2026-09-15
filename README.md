@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mhisymat.tech-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mhisymat.tech/)
 [![Security Badge](https://img.shields.io/badge/Security-Red_Team%20%7C%20Blue_Team-e11d48?style=for-the-badge&logo=shield&logoColor=white)](#-security-recognitions--hall-of-fame)
 [![Location](https://img.shields.io/badge/Location-Indonesia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Views](https://komarev.com/ghpvc/?username=MuhHisymat&label=Profile+Views&style=for-the-badge&color=0284c7)](https://mhisymat.tech/)
 
 </div>
 
@@ -79,15 +80,10 @@ Officially recognized for identifying and responsibly reporting critical securit
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### ⚡ Contribution Streak & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhHisymat&theme=tokyonight&hide_border=true" alt="MuhHisymat GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhHisymat&show_icons=true&theme=tokyonight&hide_border=true" alt="MuhHisymat GitHub Stats" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhHisymat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MuhHisymat&theme=tokyonight&hide_border=true" alt="MuhHisymat GitHub Streak" />
 </div>
 
 ---
