@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Muh Hisymat Qushayyi Kadir
 
 <a href="https://mhisymat.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Cybersecurity+Engineer+%26+Vulnerability+Researcher;Full-Stack+Web+%26+Mobile+App+Developer;Cloud+Security+%26+DevOps+Practitioner;Building+Secure%2C+High-Performance+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Cybersecurity+Engineer+%26+Vulnerability+Researcher;Full-Stack+Web+%26+Mobile+App+Developer;Building+Secure%2C+High-Performance+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
